@@ -1,2 +1,0 @@
-# Dynamic Risk Assessment System
- 
